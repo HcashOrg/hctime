@@ -1,0 +1,9 @@
+cmd/hctime/hctime
+cmd/hctime_timestamp/hctime_timestamp
+hctimed/hctimed
+vendor/
+*~
+*.pyc
+*.sw?
+*.orig
+*.diff
